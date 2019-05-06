@@ -7,3 +7,4 @@ npm i
 electron .
 ~~~
 
+![](https://github.com/MWASAWM/Game-2048/blob/master/README.JPG)
