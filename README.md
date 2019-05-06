@@ -7,4 +7,4 @@ npm i
 electron .
 ~~~
 
-![](https://github.com/MWASAWM/Game-2048/blob/master/README.JPG){:height="500" width="600" align=center}
+![](https://github.com/MWASAWM/Game-2048/blob/master/README.JPG){:height="500" width="600"}
