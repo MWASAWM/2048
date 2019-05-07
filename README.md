@@ -7,4 +7,4 @@ npm i
 electron .
 ~~~
 
-<img src = 'https://github.com/MWASAWM/Game-2048/blob/master/README.JPG' height="705" width="585" align="center"></img>
+<img src = 'https://github.com/MWASAWM/Game-2048/blob/master/README.JPG' height="705" width="585" align=center></img>
