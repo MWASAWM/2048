@@ -9,3 +9,5 @@ electron .
 
 <img src = 'https://github.com/MWASAWM/Game-2048/blob/master/README.JPG'  height="500" width="600"></img>
 ![](https://github.com/MWASAWM/Game-2048/blob/master/README.JPG){:height="500" width="600"}
+
+<img src = 'https://github.com/MWASAWM/Game-2048/blob/master/README.JPG'  height="500" width="600" align="middle"></img>
